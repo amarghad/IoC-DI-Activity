@@ -1,6 +1,6 @@
-package com.kroyo.metier;
+package com.amarghad.metier;
 
-import com.kroyo.dao.IDao;
+import com.amarghad.dao.IDao;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 

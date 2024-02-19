@@ -1,7 +1,7 @@
-package com.kroyo.presentation;
+package com.amarghad.presentation;
 
-import com.kroyo.dao.DaoImpl;
-import com.kroyo.metier.MetierImpl;
+import com.amarghad.dao.DaoImpl;
+import com.amarghad.metier.MetierImpl;
 
 public class InstanciationStatique {
 

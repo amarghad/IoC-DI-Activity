@@ -1,4 +1,4 @@
-package com.kroyo.metier;
+package com.amarghad.metier;
 
 public interface IMetier {
 

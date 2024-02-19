@@ -1,4 +1,4 @@
-package com.kroyo.dao;
+package com.amarghad.dao;
 
 public interface IDao {
 

@@ -1,2 +1,2 @@
-com.kroyo.dao.DaoImpl
-com.kroyo.metier.MetierImpl
+com.amarghad.dao.DaoImpl
+com.amarghad.metier.MetierImpl

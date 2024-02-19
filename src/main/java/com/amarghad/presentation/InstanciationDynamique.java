@@ -1,7 +1,7 @@
-package com.kroyo.presentation;
+package com.amarghad.presentation;
 
-import com.kroyo.dao.IDao;
-import com.kroyo.metier.IMetier;
+import com.amarghad.dao.IDao;
+import com.amarghad.metier.IMetier;
 
 import java.io.*;
 

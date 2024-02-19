@@ -3,11 +3,10 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-
-    <bean class="com.kroyo.metier.MetierImpl" >
-        <constructor-arg type="com.kroyo.dao.IDao" >
-            <bean class="com.kroyo.dao.DaoImpl"/>
+    <bean class="com.amarghad.metier.MetierImpl" >
+        <!-- Injecter le bean via l'argument du constructeur -->
+        <constructor-arg type="com.amarghad.dao.IDao" >
+            <bean class="com.amarghad.dao.DaoImpl"/>
         </constructor-arg>
     </bean>
-
 </beans>

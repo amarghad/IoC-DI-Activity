@@ -1,6 +1,6 @@
-package com.kroyo.presentation;
+package com.amarghad.presentation;
 
-import com.kroyo.metier.IMetier;
+import com.amarghad.metier.IMetier;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
