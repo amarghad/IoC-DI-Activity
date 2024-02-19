@@ -1,0 +1,2 @@
+com.kroyo.dao.DaoImpl
+com.kroyo.metier.MetierImpl
